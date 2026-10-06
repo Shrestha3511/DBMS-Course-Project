@@ -20,5 +20,5 @@
 
 1. Run `01_DDL.sql`, `02_SampleData.sql` and `03_Queries_and_Views.sql` in MySQL (once).
 2. `pip install flask mysql-connector-python`
-3. Set the MySQL password in `app.py`.
+3. Set the MySQL password in `UI app.py`.
 4. `python app.py` and open http://127.0.0.1:5000

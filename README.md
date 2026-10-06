@@ -3,7 +3,7 @@
 **Name:** Shrestha Mal
 **Roll Number:** 25WU0102258
 **Section:** AIML Whales
-**Project Title:** Design and Implementation of a Database Management System for Event Registration and Venue Scheduling System (Project 31)
+**Project Title:** Design and Implementation of a Database Management System for Event Registration and Venue Scheduling System
 
 **Description:** A normalized (3NF) MySQL database with a Flask web UI for managing events, sessions, venues, registrations, payments, attendance, certificates and feedback.
 
